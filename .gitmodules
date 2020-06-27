@@ -1,0 +1,3 @@
+[submodule "flxy"]
+	path = flxy
+	url = https://github.com/flxy1028/shopping-pan.git
